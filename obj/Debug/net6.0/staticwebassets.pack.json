@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\HPRBackend\\wwwroot\\PreuvePayement\\MO_PREL_36 Renseignements cliniques.pdf",
+      "PackagePath": "staticwebassets\\PreuvePayement\\MO_PREL_36 Renseignements cliniques.pdf"
+    },
+    {
+      "Id": "E:\\HPRBackend\\wwwroot\\PreuvePayement\\PC000_ggfggf.pdf",
+      "PackagePath": "staticwebassets\\PreuvePayement\\PC000_ggfggf.pdf"
+    },
+    {
+      "Id": "E:\\HPRBackend\\wwwroot\\PriseEncharges\\CLINIQUE BARKA.pdf",
+      "PackagePath": "staticwebassets\\PriseEncharges\\CLINIQUE BARKA.pdf"
+    },
+    {
+      "Id": "E:\\HPRBackend\\wwwroot\\PriseEncharges\\P0002_15482.pdf",
+      "PackagePath": "staticwebassets\\PriseEncharges\\P0002_15482.pdf"
+    },
+    {
+      "Id": "E:\\HPRBackend\\wwwroot\\PriseEncharges\\P0002_fhfhfghf.pdf",
+      "PackagePath": "staticwebassets\\PriseEncharges\\P0002_fhfhfghf.pdf"
+    },
+    {
+      "Id": "E:\\HPRBackend\\wwwroot\\planEmplacementServices\\FACTURE (1).pdf",
+      "PackagePath": "staticwebassets\\planEmplacementServices\\FACTURE (1).pdf"
+    },
+    {
+      "Id": "E:\\HPRBackend\\wwwroot\\planEmplacementServices\\PLAN.pdf",
+      "PackagePath": "staticwebassets\\planEmplacementServices\\PLAN.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.HPRBackend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.HPRBackend.props",
+      "PackagePath": "build\\HPRBackend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.HPRBackend.props",
+      "PackagePath": "buildMultiTargeting\\HPRBackend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.HPRBackend.props",
+      "PackagePath": "buildTransitive\\HPRBackend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
